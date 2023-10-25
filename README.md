@@ -3,4 +3,4 @@
 takes the image of currency bill as input and gives the final result by applying
 various image processing and computer vision techniques and algorithms.
 </b></p>
-
+(https://github.com/atharvdavale65/Fake-Currency-detector/blob/main/Screenshot%20(85).png)
